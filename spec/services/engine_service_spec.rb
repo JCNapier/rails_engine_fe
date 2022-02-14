@@ -1,7 +1,13 @@
 require 'rails_helper'
 
 RSpec.describe EngineService do
+  let(:merchants) {EngineService.merchants}
   let(:merchant_items) {EngineService.merchant_items(1)}
+
+  it 'establishes a connection for merchants' do 
+    expect(merchants).to be_an(Array)
+    expect(merchants.first[:attributes][:name]).to be_a(String)
+  end
 
   it 'establishes a connection for merchant items' do 
     expect(merchant_items).to be_a(Array)
