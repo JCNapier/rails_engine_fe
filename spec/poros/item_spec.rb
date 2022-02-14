@@ -3,7 +3,7 @@ require 'rails_helper'
 RSpec.describe Item do
   let(:item) {EngineFacade.merchant_items(1).sample}
 
-  it 'attributes' do 
+  it 'attributes', :vcr do 
     expect(item.id).to be_a(String)
     expect(item.name).to be_a(String)
     expect(item.description).to be_a(String)

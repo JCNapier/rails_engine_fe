@@ -1,17 +1,15 @@
 require 'rails_helper'
 
 RSpec.describe 'merchants index page' do
-  it 'lists all merchants' do 
-    merchant = EngineFacade.merchants.sample
+  let(:merchant) {EngineFacade.merchants.first}
+  it 'lists all merchants', :vcr do 
 
     visit merchants_path 
 
     expect(page).to have_content(merchant.name)
   end
 
-  it 'can click each merchants name and be taken to their show page' do 
-    merchant = EngineFacade.merchants.first
-
+  it 'can click each merchants name and be taken to their show page', :vcr do 
     visit merchants_path
 
     click_link merchant.name 
