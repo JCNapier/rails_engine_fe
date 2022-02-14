@@ -1,0 +1,467 @@
+{
+  "RSpec": {
+    "coverage": {
+      "/Users/johnnapier/Turing/mod3/projects/rails_engine_fe/config/environment.rb": {
+        "lines": [
+          null,
+          1,
+          null,
+          null,
+          1
+        ]
+      },
+      "/Users/johnnapier/Turing/mod3/projects/rails_engine_fe/config/application.rb": {
+        "lines": [
+          1,
+          null,
+          1,
+          null,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          null,
+          null,
+          null,
+          null,
+          1,
+          null,
+          1,
+          1,
+          null,
+          1,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          1,
+          null,
+          null
+        ]
+      },
+      "/Users/johnnapier/Turing/mod3/projects/rails_engine_fe/config/boot.rb": {
+        "lines": [
+          1,
+          null,
+          1,
+          1
+        ]
+      },
+      "/Users/johnnapier/Turing/mod3/projects/rails_engine_fe/config/environments/test.rb": {
+        "lines": [
+          1,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          1,
+          null,
+          null,
+          null,
+          null,
+          1,
+          null,
+          null,
+          1,
+          1,
+          null,
+          null,
+          null,
+          null,
+          1,
+          1,
+          null,
+          null,
+          1,
+          null,
+          null,
+          1,
+          null,
+          null,
+          1,
+          null,
+          1,
+          null,
+          null,
+          null,
+          null,
+          1,
+          null,
+          null,
+          1,
+          null,
+          null,
+          null,
+          null
+        ]
+      },
+      "/Users/johnnapier/Turing/mod3/projects/rails_engine_fe/config/initializers/application_controller_renderer.rb": {
+        "lines": [
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ]
+      },
+      "/Users/johnnapier/Turing/mod3/projects/rails_engine_fe/config/initializers/assets.rb": {
+        "lines": [
+          null,
+          null,
+          null,
+          1,
+          null,
+          null,
+          null,
+          null,
+          1,
+          null,
+          null,
+          null,
+          null,
+          null
+        ]
+      },
+      "/Users/johnnapier/Turing/mod3/projects/rails_engine_fe/config/initializers/backtrace_silencers.rb": {
+        "lines": [
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ]
+      },
+      "/Users/johnnapier/Turing/mod3/projects/rails_engine_fe/config/initializers/content_security_policy.rb": {
+        "lines": [
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ]
+      },
+      "/Users/johnnapier/Turing/mod3/projects/rails_engine_fe/config/initializers/cookies_serializer.rb": {
+        "lines": [
+          null,
+          null,
+          null,
+          null,
+          1
+        ]
+      },
+      "/Users/johnnapier/Turing/mod3/projects/rails_engine_fe/config/initializers/filter_parameter_logging.rb": {
+        "lines": [
+          null,
+          null,
+          null,
+          1
+        ]
+      },
+      "/Users/johnnapier/Turing/mod3/projects/rails_engine_fe/config/initializers/inflections.rb": {
+        "lines": [
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ]
+      },
+      "/Users/johnnapier/Turing/mod3/projects/rails_engine_fe/config/initializers/mime_types.rb": {
+        "lines": [
+          null,
+          null,
+          null,
+          null
+        ]
+      },
+      "/Users/johnnapier/Turing/mod3/projects/rails_engine_fe/config/initializers/wrap_parameters.rb": {
+        "lines": [
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          1,
+          2,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ]
+      },
+      "/Users/johnnapier/Turing/mod3/projects/rails_engine_fe/config/routes.rb": {
+        "lines": [
+          1,
+          null,
+          null,
+          1,
+          1,
+          null
+        ]
+      },
+      "/Users/johnnapier/Turing/mod3/projects/rails_engine_fe/app/helpers/application_helper.rb": {
+        "lines": [
+          1,
+          null
+        ]
+      },
+      "/Users/johnnapier/Turing/mod3/projects/rails_engine_fe/app/facades/engine_facade.rb": {
+        "lines": [
+          1,
+          1,
+          9,
+          null,
+          9,
+          900,
+          null,
+          null,
+          null,
+          1,
+          7,
+          null,
+          7,
+          105,
+          null,
+          null,
+          null
+        ]
+      },
+      "/Users/johnnapier/Turing/mod3/projects/rails_engine_fe/spec/features/merchants/index_spec.rb": {
+        "lines": [
+          1,
+          null,
+          1,
+          1,
+          1,
+          null,
+          1,
+          null,
+          1,
+          null,
+          null,
+          1,
+          1,
+          null,
+          1,
+          null,
+          1,
+          null,
+          1,
+          null,
+          null
+        ]
+      },
+      "/Users/johnnapier/Turing/mod3/projects/rails_engine_fe/spec/features/merchants/show_spec.rb": {
+        "lines": [
+          1,
+          null,
+          1,
+          1,
+          1,
+          null,
+          1,
+          null,
+          1,
+          null,
+          null,
+          1,
+          1,
+          null,
+          1,
+          null,
+          1,
+          null,
+          1,
+          null,
+          null
+        ]
+      },
+      "/Users/johnnapier/Turing/mod3/projects/rails_engine_fe/spec/poros/item_spec.rb": {
+        "lines": [
+          1,
+          null,
+          1,
+          2,
+          null,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          null,
+          null
+        ]
+      },
+      "/Users/johnnapier/Turing/mod3/projects/rails_engine_fe/app/poros/item.rb": {
+        "lines": [
+          1,
+          1,
+          null,
+          null,
+          null,
+          null,
+          null,
+          1,
+          105,
+          105,
+          105,
+          105,
+          105,
+          null,
+          null
+        ]
+      },
+      "/Users/johnnapier/Turing/mod3/projects/rails_engine_fe/spec/poros/merchant_spec.rb": {
+        "lines": [
+          1,
+          null,
+          1,
+          2,
+          null,
+          1,
+          1,
+          1,
+          null,
+          null
+        ]
+      },
+      "/Users/johnnapier/Turing/mod3/projects/rails_engine_fe/app/poros/merchant.rb": {
+        "lines": [
+          1,
+          1,
+          null,
+          null,
+          1,
+          900,
+          900,
+          null,
+          null
+        ]
+      },
+      "/Users/johnnapier/Turing/mod3/projects/rails_engine_fe/spec/services/engine_service_spec.rb": {
+        "lines": [
+          1,
+          null,
+          1,
+          2,
+          2,
+          null,
+          1,
+          1,
+          1,
+          null,
+          null,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          null,
+          null
+        ]
+      },
+      "/Users/johnnapier/Turing/mod3/projects/rails_engine_fe/app/services/engine_service.rb": {
+        "lines": [
+          1,
+          1,
+          18,
+          null,
+          null,
+          1,
+          10,
+          null,
+          10,
+          null,
+          null,
+          1,
+          8,
+          null,
+          8,
+          null,
+          null
+        ]
+      },
+      "/Users/johnnapier/Turing/mod3/projects/rails_engine_fe/app/controllers/merchants_controller.rb": {
+        "lines": [
+          1,
+          1,
+          2,
+          null,
+          null,
+          1,
+          6,
+          3,
+          null,
+          null
+        ]
+      },
+      "/Users/johnnapier/Turing/mod3/projects/rails_engine_fe/app/controllers/application_controller.rb": {
+        "lines": [
+          1,
+          null
+        ]
+      },
+      "/Users/johnnapier/Turing/mod3/projects/rails_engine_fe/app/controllers/items_controller.rb": {
+        "lines": [
+          1,
+          1,
+          null,
+          null,
+          null
+        ]
+      }
+    },
+    "timestamp": 1644875475
+  }
+}
