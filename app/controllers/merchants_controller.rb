@@ -1,5 +1,10 @@
-class MerchantsController < ApplicationController 
+class MerchantsController < ApplicationController
+  def index 
+    @merchants = EngineFacade.merchants
+  end
+
   def show 
-    @items = EngineFacade.merchant_items(params[:id])
+    # require 'pry'; binding.pry
+    @merchant_items = EngineFacade.merchant_items(params[:id])
   end
 end

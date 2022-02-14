@@ -9,14 +9,13 @@ RSpec.describe 'merchant items index page' do
     expect(page).to have_content(item.name)
   end
 
-  # it 'can click an item name and be taken to its show page' do 
-  #   item = EngineFacade.merchant_items(1).sample
+  it 'can click an item name and be taken to its show page' do 
+    item = EngineFacade.merchant_items(1).sample
+ 
+    visit merchant_path(1)
 
-  #   # visit "/merchants/1" 
-  #   visit merchant_path(1)
+    click_link (item.name)
 
-  #   click_link (item.name)
-
-  #   expect(current_path).to eq(item_path(item.id))
-  # end
+    expect(current_path).to eq(item_path(item.id))
+  end
 end
