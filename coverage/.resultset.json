@@ -254,6 +254,32 @@
           null
         ]
       },
+      "/Users/johnnapier/Turing/mod3/projects/rails_engine_fe/spec/features/merchants/show_spec.rb": {
+        "lines": [
+          1,
+          null,
+          1,
+          1,
+          1,
+          null,
+          1,
+          null,
+          1,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ]
+      },
       "/Users/johnnapier/Turing/mod3/projects/rails_engine_fe/app/facades/engine_facade.rb": {
         "lines": [
           1,
@@ -261,15 +287,15 @@
           1,
           null,
           1,
-          1,
+          100,
           null,
           null,
           null,
           1,
-          1,
+          2,
           null,
-          1,
-          15,
+          2,
+          30,
           null,
           null,
           null
@@ -279,20 +305,46 @@
         "lines": [
           1,
           1,
+          3,
+          null,
+          null,
+          1,
+          1,
+          null,
+          1,
+          null,
+          null,
+          1,
           2,
           null,
+          2,
           null,
+          null
+        ]
+      },
+      "/Users/johnnapier/Turing/mod3/projects/rails_engine_fe/app/poros/merchant.rb": {
+        "lines": [
           1,
           1,
           null,
           1,
+          100,
           null,
-          null,
+          null
+        ]
+      },
+      "/Users/johnnapier/Turing/mod3/projects/rails_engine_fe/app/controllers/merchants_controller.rb": {
+        "lines": [
           1,
           1,
-          null,
           1,
           null,
+          null
+        ]
+      },
+      "/Users/johnnapier/Turing/mod3/projects/rails_engine_fe/app/controllers/application_controller.rb": {
+        "lines": [
+          1,
           null
         ]
       },
@@ -305,15 +357,15 @@
           null,
           null,
           1,
-          15,
-          15,
-          15,
-          15,
+          30,
+          30,
+          30,
+          30,
           null,
           null
         ]
       }
     },
-    "timestamp": 1644873124
+    "timestamp": 1644873963
   }
 }
